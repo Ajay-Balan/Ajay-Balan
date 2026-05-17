@@ -24,9 +24,9 @@ Hardware Design: OrCAD, KiCad, LTSpice, Vivado
 
 📈 Highlighted Projects
 
-🧠 Neuromorphic Logic Gates: {https://github.com/Ajay-Balan/AI-Structural-Cleaner} - Python simulation of fundamental logic gates using LIF neurons.
+🧠 Neuromorphic Logic Gates: https://github.com/Ajay-Balan/AI-Structural-Cleaner - Python simulation of fundamental logic gates using LIF neurons.
 
-🏗️ AI Point Cloud Processor: {https://github.com/Ajay-Balan/Logical_LIF} - An automated 3D processing tool built with PyQt5 and PyVista for structural element isolation.
+🏗️ AI Point Cloud Processor: https://github.com/Ajay-Balan/Logical_LIF - An automated 3D processing tool built with PyQt5 and PyVista for structural element isolation.
 
 🏥 Clinical-Grade ADM System: Deterministic hardware logic for critical care EEG analysis (C-DAC R&D).
 
